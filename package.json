@@ -1,0 +1,19 @@
+{
+  "name": "simelap",
+  "version": "1.0.0",
+  "description": "simple app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nao3301/simelap.git"
+  },
+  "author": "nao3301",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nao3301/simelap/issues"
+  },
+  "homepage": "https://github.com/nao3301/simelap#readme"
+}
