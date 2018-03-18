@@ -3,9 +3,10 @@ const {app, BrowserWindow} = require('electron');
 const path = require('path');
 const url = require('url');
 
-let win;
+let win ;
 
-function createWindow () {
+function createWindow () {  
+
 	// create Window
 	win = new BrowserWindow({width: 800, height: 600, icon: __dirname + '/img/fd08c5c6ff4199c6fe2463970e645d84--icon-png-business.jpg'});
 

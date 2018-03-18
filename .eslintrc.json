@@ -1,5 +1,6 @@
 {
     "env": {
+        "browser": true,
         "node": true,
         "commonjs": true,
         "es6": true
@@ -24,6 +25,46 @@
         "semi": [
             "error",
             "always"
-        ]
+        ],
+        "no-irregular-whitespace":"error",
+        "spaced-comment": "error",
+        "camelcase":"error",
+        "curly":"error",
+        "space-before-blocks":"error",
+        "wrap-regex":"error",
+        "block-spacing":"error",
+        "brace-style":"error",
+        "init-declarations": [
+            "error",
+            "never",
+            {"ignoreForLoopInit":true}
+        ],
+        "block-scoped-var":"error",
+        "default-case":"error",
+        "complexity": [
+            "error", 
+            10
+        ],
+        "eqeqeq":[
+            "error",
+            "smart"
+        ],
+        "no-empty-function":"error",
+        "vars-on-top":"error",
+        "require-await":"error",
+        "no-useless-concat":"error",
+        "no-multi-spaces":[
+            "error",
+            {"ignoreEOLComments":true}
+        ],
+        "no-magic-numbers": [
+            "error",
+            {"ignore":[1]}
+        ],
+        "handle-callback-err":"error",
+        "no-ex-assign":"error"
+
+
+
     }
 }
