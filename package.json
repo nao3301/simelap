@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nao3301/simelap/issues"
   },
-  "homepage": "https://github.com/nao3301/simelap#readme"
+  "homepage": "https://github.com/nao3301/simelap#readme",
+  "dependencies": {
+    "electron": "^1.8.4"
+  }
 }
