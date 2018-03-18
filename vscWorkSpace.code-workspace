@@ -7,8 +7,10 @@
 	"settings": {},
 	"extensions": {
 		"recommendations": [
-			"flowtype.flow",
-			"chenxsan.javaScriptStandard"
+			"flowtype.flow-for-vscode",
+			"dbaeumer.jshint",
+			"chenxsan.vscode-standardjs",
+			"eamodio.gitlens"
 
 		]
 	}
