@@ -23,7 +23,8 @@
     "electron": "^1.8.4",
     "flow": "^0.2.3",
     "flow-bin": "^0.68.0",
-    "jshint": "^2.9.5"
+    "jshint": "^2.9.5",
+    "standard": "^11.0.1"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
