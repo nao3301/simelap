@@ -4,5 +4,12 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"flowtype.flow",
+			"chenxsan.javaScriptStandard"
+
+		]
+	}
 }
